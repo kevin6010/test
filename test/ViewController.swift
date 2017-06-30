@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var rockerButton: UIImageView!
     @IBOutlet weak var rockerView: UIImageView!
     
-    var buttonX:CGFloat = 0.0
+    var buttonX:CGFloat = 0.02
     var buttonY:CGFloat = 0.0
     
     override func viewDidLoad() {
